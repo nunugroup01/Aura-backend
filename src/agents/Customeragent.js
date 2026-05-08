@@ -3,7 +3,6 @@
 // Handles all customer messages automatically
 
 import Anthropic from '@anthropic-ai/sdk'
-
 const client = new Anthropic({
   apiKey: process.env.CLAUDE_API_KEY
 })

@@ -6,7 +6,7 @@ import {
   replyToCustomer,
   getAllMessages,
   getMessage
-} from '../agents/Customeragent.js'
+} from '../agents/CustomerAgent.js'
 
 const router = Router()
 

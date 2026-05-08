@@ -2,7 +2,7 @@
 // Aura — Content Engine Routes
 
 import { Router } from 'express'
-import { generateContent } from '../agents/Contentagent.js'
+import { generateContent } from '../agents/ContentAgent.js'
 
 const router = Router()
 
